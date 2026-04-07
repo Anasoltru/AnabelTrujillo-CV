@@ -1,6 +1,6 @@
 # Anbel S. Trujillo Rodríguez
-QA Engineer (en formación) | Scrum Master | Digital Project Manager |
-Ingeniera de Sistemas | Especialista en Marketing Digital
+Scrum Master | Digital Project Manager |
+Ingeniera de Sistemas | Especialista en Marketing Digital | QA Engineer
 
 ## Contacto
 
@@ -11,79 +11,54 @@ Ingeniera de Sistemas | Especialista en Marketing Digital
 
 ## Sobre mí
 
-Ingeniera de Sistemas y Especialista en Marketing Digital, con más de 10 años de experiencia
-gestionando proyectos digitales y facilitando equipos ágiles en entornos colaborativos.
-Cuento con experiencia previa como Analista Tester y actualmente me encuentro
-fortaleciendo mis competencias técnicas en testing manual, análisis de requerimientos y
-reporte de bugs a través del Bootcamp de QA Engineer (TripleTen).
-Mi perfil integra gestión ágil, aseguramiento de calidad y visión técnica, lo que me permite
-conectar equipos, optimizar procesos y garantizar entregas con valor. Manejo herramientas
-como Jira, Azure, Trello, Bitrix, Planner y Project, además de conocimientos técnicos en
-Firebase, Postman, Python y SQL.
-_________________________________________________________________________________________________________________________________________________________________________________________
-## Habilidades técnicas
+Ingeniera de Sistemas con más de 10 años de experiencia en proyectos de tecnología y más de 4 años desempeñándose como Scrum Master y Digital Project Manager en entornos corporativos, con experiencia en iniciativas digitales y de marketing técnico. Experta en gestión y seguimiento de proyectos tecnológicos, coordinación de equipos multidisciplinarios, gestión de requerimientos y generación de informes de avance e indicadores, articulando procesos entre áreas de negocio, marketing y desarrollo. Cuento con especialización en Marketing Digital, lo que me permite desempeñarme como puente entre equipos técnicos y de marketing, facilitando la alineación entre estrategia y ejecución. Sólidos conocimientos en metodologías y marcos ágiles (Scrum, Kanban, SAFe), manejo avanzado de Jira y Azure DevOps, Excel intermedio y comunicación efectiva con stakeholders técnicos y de negocio, con enfoque en calidad, mejora continua y cumplimiento de objetivos.
+_____________________________________________________________________________________________________________________________________________________________________________
+## HABILIDADES
 
-* Pruebas de API: uso de Postman para validación de endpoints, requests GET/POST/PUT/DELETE, manejo de headers, body, parámetros y análisis de respuestas.
-* Herramientas QA: Jira, Confluence, Azure DevOps, Test Manager, Postman, Firebase.
-* Conocimientos técnicos: Python, SQL, Firebase.
-* Agile & Gestión: Scrum, Kanban, Agile híbrido, facilitación de ceremonias.
-* Gestión de proyectos: liderazgo, seguimiento, priorización, manejo de dependencias, métricas ágiles.
-* Herramientas de gestión: Jira, Trello, Azure, Bitrix, Planner, Project, Miro.
-_________________________________________________________________________________________________________________________________________________________________________________________
-## Experiencia Profesional
+* Gestión Ágil: Scrum, Kanban, SAFe, facilitación de ceremonias, coaching ágil, eliminación de impedimentos.
+* Gestión de Proyectos: Seguimiento de requerimientos, planificación, métricas e indicadores, gestión de stakeholders.
+* Herramientas: Jira, Azure DevOps, Planner, Trello, Project, Bitrix, Firebase, BigQuery.
+* Testing y Calidad: Testing funcional, diseño de casos y escenarios de prueba, reporte de bugs, análisis funcional, pruebas exploratorias.
+* Habilidades Blandas: Comunicación efectiva, liderazgo, resolución de problemas,pensamiento crítico, inteligencia emocional, colaboración en equipo.
+_____________________________________________________________________________________________________________________________________________________________________________
+### EXPERIENCIA PROFESIONAL
+Grupo ASD | Scrum Master, Bogotá (Diciembre 2024 – Mayo 2025)
+# Empresa de desarrollo de software y servicios digitales
+* Incrementé la productividad del equipo en un 20–25%, mediante la facilitación efectiva de ceremonias Scrum y mejora en la comunicación entre desarrollo, Product Owner y stakeholders.
+* Seguimiento y optimización del ciclo de vida del sprint, eliminando impedimentos y asegurando entregas de valor continuo utilizando métricas ágiles.
+* Gestión del backlog y coordinación entre áreas técnicas, reduciendo riesgos y fortaleciendo la colaboración interdisciplinaria.
+* Manejo avanzado de Jira para gestión de tareas, historias de usuario, tableros Kanban/Scrum y generación de reportes de desempeño.
+### VASS Technology | Scrum Master, Bogotá (Noviembre 2023 – Agosto 2024)
+# Consultora tecnológica enfocada en soluciones digitales
+* Coordinación y seguimiento continuo de historias de usuario y tareas técnicas, asegurando el cumplimiento de los objetivos del sprint.
+* Mejoré la eficiencia del equipo en un 20%, implementando prácticas ágiles que optimizan el flujo de trabajo y el cumplimiento de objetivos del sprint.
+* Gestión de dependencias con stakeholders técnicos y de negocio, garantizando entregables alineados con las expectativas.
+* Monitoreo del progreso técnico utilizando Jira y Azure DevOps, detectando riesgos de forma temprana.
+* Liderazgo en la entrega y transición operativa de proyectos.
+### Indra | Scrum Master, Bogotá (Septiembre 2022 – Noviembre 2023)
+# Multinacional de tecnología y transformación digital
+* Lideré la adopción de Scrum desde cero, logrando una mejora del 30% en la colaboración y autonomía del equipo mediante coaching ágil continuo.
+* Coaching y entrenamiento ágil para mejorar la comunicación, colaboración y autonomía de los equipos.
+* Optimicé la comunicación y trazabilidad de procesos en un 25%, a través de la documentación estructurada y gestión efectiva de stakeholders.
+* Documentación de procesos, resultando en mayor claridad operativa y trazabilidad.
+* Gestión de proyectos de iniciativas en el sector salud, utilizando herramientas como Trello, Project y Bitrix.
+### Global Hitss | Digital Project Manager, Bogotá (Enero 2020 – Septiembre 2022)
+# Empresa de soluciones digitales y gestión tecnológica
+* Incrementé el rendimiento de proyectos digitales en un 20–30%, mediante la gestión ágil de iniciativas multicanal y alineación entre equipos de desarrollo, analytics y marketing.
+* Gestión ágil de proyectos digitales multicanal, aplicando metodología tradicional y marco Scrum en el desarrollo y evolución de productos digitales.
+* Coordinación de requerimientos funcionales y técnicos con equipos multidisciplinarios de desarrollo, Analytics, UX y marketing.
+* Seguimiento de tareas con herramientas digitales como Azure, Trello, Planner, Firebase y BigQuery.
+* Análisis de resultados de campañas digitales, optimizando estrategias basadas en datos.
 
-### Scrum Master — Grupo ASD
-Nov 2023 – Jul 2024
-* Facilitación de marcos ágiles (Scrum)
-* Gestión de ceremonias Scrum
-* Fomentar el trabajo en equipo y mejora de la comunicación entre desarrolladores, Product Owner y stakeholders.
-* Seguimiento y optimización del ciclo de vida del sprint, eliminando impedimentos y asegurando entregas de valor continuo.
-* Manejo de Jira para la gestión de tareas, Historias de usuario, tableros Kanban/Scrum y reportes de desempeño.
+### EDUCACIÓN
+ *QA Engineering Certificate, TripleTen 2026
+* Ingeniería de Sistemas, Universidad Católica de Colombia — 2012
+* Especialización en Marketing Digital, UNITEC — 2019
+# Certificación y Formación Complementaria
+* Scrum Master (Experiencia certificada en múltiples organizaciones)
+* Metodologías Ágiles, Scrum, Kanban, SAFe
+* Gestión de Proyectos Digitales
 
-### Scrum Master — VASS Technology
-Sep 2022 – Nov 2023
-* Coordinación y seguimiento continuo de historias de usuario y tareas técnicas.
-* Gestión de requerimientos ágiles.
-* Liderazgo de equipos Scrum, aplicando metodologías ágiles, cumplimiento de Sprints y objetivos.
-* Gestión de herramientas de planificación y seguimiento, Azure, Planner y Project.
-* Entrega y transición operativa.
-* Alineación con objetivos e indicadores clave.
-
-### Scrum Master — Indra
-2022 – 2023
-* Implementación y adaptación de Agile Scrum en equipos de desarrollo, adopción de prácticas ágiles efectivas desde cero.
-* Coaching y entrenamiento ágil, mejorar la comunicación, colaboración.
-* Gestión de la comunicación con stakeholders
-* Gestión de proyectos de iniciativas en el sector salud.
-* Uso de herramientas para la planificación y seguimiento ágil, como: Trello, Project y Bitrix.
-
-### Digital Project Manager — Global Hitss
-Ene 2020 – Sep 2022
-* Gestión ágil de proyectos digitales multicanal
-* Aplicación metodología tradicional y marco Scrum en el desarrollo y evolución de productos digitales.
-* Coordinación de requerimientos funcionales y técnicos.
-* Colaboración con equipos multidisciplinarios, entre desarrollo, analytics, UX y marketing para asegurar entregas alineadas con objetivos de negocio.
-* Seguimiento de tareas con herramientas digitales como Azure, Trello, Planner.
-
-### QA Analyst — IO Innovation Place
-Dic 2014 – May 2015
-* Ejecución de pruebas funcionales en aplicaciones SharePoint
-* Diseño y ejecución de casos de prueba en Test Manager.
-* Elaboración de informes de resultados y manuales de usuario.
-* Apoyo en capacitación a clientes y validación de requerimientos.
-
-### QA Analyst — Stefanini Informática y Tecnología
-Jun 2012 – Abr 2013
-* Ejecución de pruebas funcionales en aplicaciones SharePoint
-* Planificación, Diseño y ejecución de casos de prueba funcionales.
-* Elaboración de informes de resultados y manuales de usuario.
-* Apoyo analistas de requerimientos, historias de usuario y mockups.
-_______________________________________________________________________________________________________________________________________________________________________________________
-### Educación
-* Bootcamp QA Engineer – TripleTen (2025 – En curso)
-* Especialista en Marketing Digital – UNITEC (2018 – 2019)
-* Ingeniera de Sistemas – Univ. Católica de Colombia (2005 – 2012)
-________________________________________________________________________________________________________________________________________________________________________________________
 ### Idiomas
 * Español: Nativo
 * Inglés: B1 (en curso)
