@@ -11,7 +11,10 @@ Ingeniera de Sistemas | Especialista en Marketing Digital | QA Engineer
 
 ## PERFIL PROFESIONAL
 
-Ingeniera de Sistemas con más de 10 años de experiencia en proyectos de tecnología y más de 4 años desempeñándose como Scrum Master y Digital Project Manager en entornos corporativos, con experiencia en iniciativas digitales y de marketing técnico. Experta en gestión y seguimiento de proyectos tecnológicos, coordinación de equipos multidisciplinarios, gestión de requerimientos y generación de informes de avance e indicadores, articulando procesos entre áreas de negocio, marketing y desarrollo. Cuento con especialización en Marketing Digital, lo que me permite desempeñarme como puente entre equipos técnicos y de marketing, facilitando la alineación entre estrategia y ejecución. Sólidos conocimientos en metodologías y marcos ágiles (Scrum, Kanban, SAFe), manejo avanzado de Jira y Azure DevOps, Excel intermedio y comunicación efectiva con stakeholders técnicos y de negocio, con enfoque en calidad, mejora continua y cumplimiento de objetivos.
+Scrum Master y Digital Project Manager con más de 4 años de experiencia en entornos corporativos, apoyando la ejecución de iniciativas digitales y coordinando equipos multidisciplinarios entre desarrollo, negocio y marketing.
+Me enfoco en facilitar la ejecución del equipo mediante la gestión de ceremonias ágiles, el seguimiento a objetivos del sprint y el apoyo activo en la remoción de impedimentos, coordinando con stakeholders y áreas externas. Acompañó la visibilidad del avance a través de métricas, reportes y seguimiento continuo.
+Tengo experiencia trabajando con marcos ágiles como Scrum, Kanban y SAFe, apoyando equipos de distintos niveles de seniority en mantener el foco, mejorar la colaboración y avanzar en entornos dinámicos.
+Me siento cómoda trabajando en entornos técnicos exigentes, colaborando con equipos multifuncionales y apoyando la gestión de backlog, prioridades y alineación con objetivos de negocio.
 _____________________________________________________________________________________________________________________________________________________________________________
 ## HABILIDADES
 
