@@ -1,6 +1,6 @@
+
 # Anbel S. Trujillo Rodríguez
-Scrum Master | Digital Project Manager |
-Ingeniera de Sistemas | Especialista en Marketing Digital | QA Engineer
+SCRUM MASTER | AGILE DELIVERY | DIGITAL PROJECT MANAGER | TECHNICAL DIGITAL MARKETING | QA & TESTING
 
 ## Contacto
 
@@ -52,15 +52,16 @@ ________________________________________________________________________________
 * Coordinación de requerimientos funcionales y técnicos con equipos multidisciplinarios de desarrollo, Analytics, UX y marketing.
 * Seguimiento de tareas con herramientas digitales como Azure, Trello, Planner, Firebase y BigQuery.
 * Análisis de resultados de campañas digitales, optimizando estrategias basadas en datos.
-
+_____________________________________________________________________________________________________________________________________________________________________________
 ## EDUCACIÓN
 * QA Engineering Certificate, TripleTen 2026
 * Ingeniería de Sistemas, Universidad Católica de Colombia — 2012
 * Especialización en Marketing Digital, UNITEC — 2019
+  
 ##### Certificación y Formación Complementaria
-* Scrum Master (Experiencia certificada en múltiples organizaciones)
+* Scrum Master y Scrum Fundamentals (Experiencia certificada en múltiples organizaciones)
 * Metodologías Ágiles, Scrum, Kanban, SAFe
-* Gestión de Proyectos Digitales
+* Gestión de Proyectos con la metodología Agile
 
 #### Idiomas
 * Español: Nativo
