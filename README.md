@@ -6,7 +6,7 @@ SCRUM MASTER | AGILE DELIVERY | DIGITAL PROJECT MANAGER | TECHNICAL DIGITAL MARK
 
 📍 Bogotá, Colombia
 📧 anabeltrujillorodriguez@gmail.com
-🔗 LinkedIn: linkedin.com/in/anabel-trujillo-rodríguez
+🔗 LinkedIn: https://linkedin.com/in/anabel-trujillo-rodríguez
 📱 +57 316 418 8597
 
 ## PERFIL PROFESIONAL
